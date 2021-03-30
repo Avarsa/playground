@@ -2,10 +2,10 @@
 
 ## Setup
 
-Three services have been set up :
+Three services have been setup :
 (click on the links to open, run tests, build, and run the services)
 
-1. Auth Service  (user-authentication microservice)
+1. [Auth Service](/auth_service)  (user-authentication microservice)
 2. User Service  (user microservice)
 3. Landing Server  (proxy microservice)
 
